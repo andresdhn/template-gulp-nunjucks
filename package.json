@@ -1,0 +1,19 @@
+{
+    "name": "gulp-nunjucks",
+    "version": "1.0.0",
+    "description": "Gulp & Nunjucks setup example",
+    "main": "index.js",
+    "dependencies": {},
+    "devDependencies": {
+        "del": "^6.0.0",
+        "gulp": "^4.0.2",
+        "gulp-beautify": "^3.0.0",
+        "gulp-nunjucks-render": "^2.2.3"
+    },
+    "scripts": {
+        "start": "gulp",
+        "build": "gulp build"
+    },
+    "author": "Andres Hernandez <hernandez.andres.d@gmail.com>",
+    "license": "ISC"
+}
