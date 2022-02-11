@@ -14,6 +14,6 @@
         "start": "gulp",
         "build": "gulp build"
     },
-    "author": "Andres Hernandez <hernandez.andres.d@gmail.com>",
+    "author": "Andres Hernandez",
     "license": "ISC"
 }
